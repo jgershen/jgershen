@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Writing about machine learning, engineering management, and more at [jgershen.dev](jgershen.dev).
+Writing about machine learning, engineering management, and more at [jgershen.dev](https://jgershen.dev).
